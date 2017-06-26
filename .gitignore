@@ -1,0 +1,1023 @@
+Vatgia-iOS-For-Merchant/Pods/Manifest.lock
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/LICENSE
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/README.md
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/AbstractActionSheetPicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/AbstractActionSheetPicker.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetCustomPicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetCustomPicker.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetCustomPickerDelegate.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDatePicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDatePicker.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDistancePicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDistancePicker.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetLocalePicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetLocalePicker.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetMultipleStringPicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetMultipleStringPicker.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetPicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetStringPicker.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetStringPicker.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/DistancePickerView.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/DistancePickerView.m
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/SWActionSheet.h
+Vatgia-iOS-For-Merchant/Pods/ActionSheetPicker-3.0/Pickers/SWActionSheet.m
+Vatgia-iOS-For-Merchant/Pods/Alamofire/LICENSE
+Vatgia-iOS-For-Merchant/Pods/Alamofire/README.md
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/AFError.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/Alamofire.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/MultipartFormData.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/NetworkReachabilityManager.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/Notifications.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/ParameterEncoding.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/Request.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/Response.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/ResponseSerialization.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/Result.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/ServerTrustPolicy.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/SessionDelegate.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/SessionManager.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/TaskDelegate.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/Timeline.swift
+Vatgia-iOS-For-Merchant/Pods/Alamofire/Source/Validation.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/LICENSE
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/README.md
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/AFIError.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/Image.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/ImageCache.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/ImageDownloader.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/ImageFilter.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/Request+AlamofireImage.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift
+Vatgia-iOS-For-Merchant/Pods/AlamofireObjectMapper/LICENSE
+Vatgia-iOS-For-Merchant/Pods/AlamofireObjectMapper/README.md
+Vatgia-iOS-For-Merchant/Pods/AlamofireObjectMapper/AlamofireObjectMapper/AlamofireObjectMapper.swift
+Vatgia-iOS-For-Merchant/Pods/BBBadgeBarButtonItem/LICENCE.txt
+Vatgia-iOS-For-Merchant/Pods/BBBadgeBarButtonItem/README.md
+Vatgia-iOS-For-Merchant/Pods/BBBadgeBarButtonItem/BBBadgeBarButtonItem/BBBadgeBarButtonItem.h
+Vatgia-iOS-For-Merchant/Pods/BBBadgeBarButtonItem/BBBadgeBarButtonItem/BBBadgeBarButtonItem.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/LICENSE
+Vatgia-iOS-For-Merchant/Pods/Bolts/README.md
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFCancellationToken.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFCancellationToken.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFExecutor.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFExecutor.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFTask+Exceptions.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFTask+Exceptions.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFTask.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFTask.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/Bolts.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/Common/Bolts.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLink.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLink.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFURL.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFURL.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/Internal/BFAppLink_Internal.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/Internal/BFAppLinkReturnToRefererView_Internal.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/Internal/BFMeasurementEvent_Internal.h
+Vatgia-iOS-For-Merchant/Pods/Bolts/Bolts/iOS/Internal/BFURL_Internal.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/LICENSE.txt
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/README.md
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/CocoaLumberjack.swift
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDASLLogCapture.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDASLLogger.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDASLLogger.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDAssertMacros.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDFileLogger.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDFileLogger.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDLog+LOGV.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDLog.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDLog.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDLogMacros.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDTTYLogger.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/DDTTYLogger.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.h
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.m
+Vatgia-iOS-For-Merchant/Pods/CocoaLumberjack/Framework/Lumberjack/CocoaLumberjack.modulemap
+Vatgia-iOS-For-Merchant/Pods/CSStickyHeaderFlowLayout/LICENSE
+Vatgia-iOS-For-Merchant/Pods/CSStickyHeaderFlowLayout/README.md
+Vatgia-iOS-For-Merchant/Pods/CSStickyHeaderFlowLayout/Classes/CSStickyHeaderFlowLayout.h
+Vatgia-iOS-For-Merchant/Pods/CSStickyHeaderFlowLayout/Classes/CSStickyHeaderFlowLayout.m
+Vatgia-iOS-For-Merchant/Pods/CSStickyHeaderFlowLayout/Classes/CSStickyHeaderFlowLayoutAttributes.h
+Vatgia-iOS-For-Merchant/Pods/CSStickyHeaderFlowLayout/Classes/CSStickyHeaderFlowLayoutAttributes.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/LICENSE
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/README.mdown
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ar.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/bn.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/cs.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/da.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/de.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/el.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/en.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/en_GB.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/es.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/es_ES.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fi.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fil.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fr.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/gu.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/he.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hi.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hr.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hu.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/id.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/it.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ja.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/kn.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ko.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ml.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/mr.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ms.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/nb.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/nl.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pa.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pl.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pt.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pt_PT.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ru.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/sk.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/sv.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ta.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/te.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/th.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/tr.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/vi.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh_Hant_HK.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh_Hant_TW.lproj/FacebookSDK.strings
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKApplicationDelegate+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKAudioResourceLoader.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKAudioResourceLoader.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKContainerViewController.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKContainerViewController.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKCoreKit+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKDeviceRequestsHelper.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKDeviceRequestsHelper.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKDynamicFrameworkLoader.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKError.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKError.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKImageDownloader.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKImageDownloader.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKInternalUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKInternalUtility.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKLogger.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKLogger.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMath.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMath.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMonotonicTime.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMonotonicTime.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKProfile+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSettings+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSystemAccountStoreAdapter.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSystemAccountStoreAdapter.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTriStateBOOL.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTriStateBOOL.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTypeUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTypeUtility.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEvents+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsDeviceInfo.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsDeviceInfo.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsState.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsState.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsStateManager.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsStateManager.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsUtility.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKPaymentObserver.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKPaymentObserver.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKTimeSpentData.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKTimeSpentData.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppLink/FBSDKBoltsMeasurementEventListener.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppLink/FBSDKBoltsMeasurementEventListener.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Base64/FBSDKBase64.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Base64/FBSDKBase64.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPICrypto.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPICrypto.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIProtocol.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIProtocolType.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIRequest+Private.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIRequest.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIRequest.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIResponse.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIResponse.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKURLOpening.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolNativeV1.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolNativeV1.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV1.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV1.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV2.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV2.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Cryptography/FBSDKCrypto.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Cryptography/FBSDKCrypto.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/_FBSDKTemporaryErrorRecoveryAttempter.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/_FBSDKTemporaryErrorRecoveryAttempter.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/FBSDKErrorRecoveryAttempter.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/FBSDKErrorRecoveryAttempter.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequest+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestBody.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestBody.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestConnection+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestMetadata.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestMetadata.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestPiggybackManager.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestPiggybackManager.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLConnection.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLConnection.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLSessionTask.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLSessionTask.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKDialogConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKDialogConfiguration.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorConfiguration.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorRecoveryConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorRecoveryConfiguration.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfiguration+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfiguration.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfigurationManager+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfigurationManager.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfigurationManager.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCache.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCache.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_17.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_17.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_21.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_21.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV4.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV4.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCaching.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStore.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStore.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStoreViaBundleID.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStoreViaBundleID.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKButton+Subclass.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKCloseIcon.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKCloseIcon.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKColor.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKColor.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKIcon.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKIcon.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKLogo.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKLogo.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKMaleSilhouetteIcon.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKMaleSilhouetteIcon.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKUIUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKViewImpressionTracker.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKViewImpressionTracker.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialogView.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialogView.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal_NoARC/FBSDKDynamicFrameworkLoader.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/LICENSE
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/README.mdown
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/_FBSDKLoginRecoveryAttempter.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/_FBSDKLoginRecoveryAttempter.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginCompletion+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginCompletion.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginCompletion.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginError.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginError.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginKit+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManager+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManagerLogger.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManagerLogger.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManagerLoginResult+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginUtility.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/LICENSE
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/README.mdown
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupAddDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupAddDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupJoinDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupJoinDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKHashtag.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKHashtag.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeButton.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeButton.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeControl.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeControl.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeObjectType.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeObjectType.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLiking.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKMessageDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKMessageDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSendButton.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSendButton.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareAPI.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareAPI.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareButton.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareButton.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareConstants.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareConstants.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialogMode.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialogMode.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareLinkContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareLinkContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMediaContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMediaContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphAction.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphAction.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphObject.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphObject.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphValueContainer.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphValueContainer.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhoto.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhoto.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhotoContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhotoContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideo.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideo.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideoContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideoContent.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharing.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharingButton.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharingContent.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKCheckmarkIcon.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKCheckmarkIcon.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKGameRequestFrictionlessRecipientCache.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKGameRequestFrictionlessRecipientCache.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionController.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionController.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionControllerCache.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionControllerCache.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxBorderView.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxBorderView.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxView.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxView.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeButton+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeButtonPopWAV.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeButtonPopWAV.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeControl+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeDialog.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeDialog.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKMessengerIcon.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKMessengerIcon.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareDefines.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareError.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareError.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareKit+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareLinkContent+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareOpenGraphValueContainer+Internal.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareUtility.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareUtility.m
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKVideoUploader.h
+Vatgia-iOS-For-Merchant/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKVideoUploader.m
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/FirebaseAnalytics
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Modules/module.modulemap
+Vatgia-iOS-For-Merchant/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/FirebaseCore
+Vatgia-iOS-For-Merchant/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRApp.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FirebaseCore.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIROptions.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Modules/module.modulemap
+Vatgia-iOS-For-Merchant/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/FirebaseInstanceID
+Vatgia-iOS-For-Merchant/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h
+Vatgia-iOS-For-Merchant/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Modules/module.modulemap
+Vatgia-iOS-For-Merchant/Pods/FirebaseInstanceID/Sources/FIRInstanceID.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/LICENSE
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/README.md
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTAddressFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTAddressFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTArrayFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTArrayFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTColorFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTColorFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTLocationFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTLocationFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTNameFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTNameFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTOrdinalNumberFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTOrdinalNumberFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTTimeIntervalFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTTimeIntervalFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTUnitOfInformationFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTUnitOfInformationFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTURLRequestFormatter.h
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/FormatterKit/TTTURLRequestFormatter.m
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/ar.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/ca.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/cs.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/da.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/de.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/el.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/en.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/es.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/fr.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/he.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/hu.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/id.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/it.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/ja.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/ko.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/ms.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/nb.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/nl.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/nn.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/pl.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/pt.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/pt_BR.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/ro.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/ru.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/sv.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/th.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/tr.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/uk.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/vi.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/zh-Hans.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/FormatterKit/Localizations/zh-Hant.lproj/FormatterKit.strings
+Vatgia-iOS-For-Merchant/Pods/Google/README.md
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLCore.framework/GGLCore
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLCore.framework/Headers/GGLConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLCore.framework/Headers/GGLContext.h
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLCore.framework/Headers/GGLCore.h
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLCore.framework/Headers/GGLErrorCode.h
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLCore.framework/Headers/GMRConfiguration.h
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLCore.framework/Modules/module.modulemap
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLSignIn.framework/GGLSignIn
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLSignIn.framework/Headers/GGLContext+SignIn.h
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLSignIn.framework/Headers/GGLSignIn.h
+Vatgia-iOS-For-Merchant/Pods/Google/Frameworks/GGLSignIn.framework/Modules/module.modulemap
+Vatgia-iOS-For-Merchant/Pods/Google/Headers/Core.h
+Vatgia-iOS-For-Merchant/Pods/Google/Headers/module.modulemap
+Vatgia-iOS-For-Merchant/Pods/Google/Headers/SignIn.h
+Vatgia-iOS-For-Merchant/Pods/Google/Headers/ModuleHeaders/Analytics-Module.h
+Vatgia-iOS-For-Merchant/Pods/Google/Headers/ModuleHeaders/Core-Module.h
+Vatgia-iOS-For-Merchant/Pods/Google/Headers/ModuleHeaders/SignIn-Module.h
+Vatgia-iOS-For-Merchant/Pods/GoogleAppUtilities/Frameworks/frameworks/GoogleAppUtilities.framework/GoogleAppUtilities
+Vatgia-iOS-For-Merchant/Pods/GoogleInterchangeUtilities/Frameworks/frameworks/GoogleInterchangeUtilities.framework/GoogleInterchangeUtilities
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/CHANGELOG.md
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/README.md
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/GoogleSignIn
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDAuthentication.h
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDGoogleUser.h
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDProfileData.h
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignIn.h
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignInButton.h
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules/module.modulemap
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google.png
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google@2x.png
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/google@3x.png
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/Info.plist
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/Roboto-Bold.ttf
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ca.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/cs.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/da.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/de.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/el.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/en_GB.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/es_MX.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fi.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/fr.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/he.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hr.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/hu.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/id.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/it.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ja.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ko.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ms.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nb.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/nl.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pl.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_BR.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/pt_PT.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ro.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/ru.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sk.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/sv.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/th.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/tr.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/uk.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/vi.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_CN.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSignIn/Resources/GoogleSignIn.bundle/zh_TW.lproj/GoogleSignIn.strings
+Vatgia-iOS-For-Merchant/Pods/GoogleSymbolUtilities/Frameworks/frameworks/GoogleSymbolUtilities.framework/GoogleSymbolUtilities
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/GTMDefines.h
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/LICENSE
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/README.md
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.m
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.m
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h
+Vatgia-iOS-For-Merchant/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.m
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/LICENSE
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/README.md
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/Source/GTMOAuth2Authentication.h
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/Source/GTMOAuth2Authentication.m
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/Source/GTMOAuth2SignIn.h
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/Source/GTMOAuth2SignIn.m
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/Source/Touch/GTMOAuth2ViewControllerTouch.h
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/Source/Touch/GTMOAuth2ViewControllerTouch.m
+Vatgia-iOS-For-Merchant/Pods/GTMOAuth2/Source/Touch/GTMOAuth2ViewTouch.xib
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/LICENSE
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/README.md
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.h
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.m
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMMIMEDocument.h
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMMIMEDocument.m
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.h
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.m
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.m
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.m
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.m
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h
+Vatgia-iOS-For-Merchant/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.m
+Vatgia-iOS-For-Merchant/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Private/Google/Google/Analytics-Module.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Private/Google/Google/Core-Module.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Private/Google/Google/Core.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Private/Google/Google/SignIn-Module.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Private/Google/Google/SignIn.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Public/FirebaseInstanceID/FIRInstanceID.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Public/Google/Google/Analytics-Module.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Public/Google/Google/Core-Module.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Public/Google/Google/Core.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Public/Google/Google/SignIn-Module.h
+Vatgia-iOS-For-Merchant/Pods/Headers/Public/Google/Google/SignIn.h
+Vatgia-iOS-For-Merchant/Pods/HPGrowingTextView/LICENSE.txt
+Vatgia-iOS-For-Merchant/Pods/HPGrowingTextView/README.md
+Vatgia-iOS-For-Merchant/Pods/HPGrowingTextView/class/HPGrowingTextView.h
+Vatgia-iOS-For-Merchant/Pods/HPGrowingTextView/class/HPGrowingTextView.m
+Vatgia-iOS-For-Merchant/Pods/HPGrowingTextView/class/HPTextViewInternal.h
+Vatgia-iOS-For-Merchant/Pods/HPGrowingTextView/class/HPTextViewInternal.m
+Vatgia-iOS-For-Merchant/Pods/KLCPopup/LICENSE
+Vatgia-iOS-For-Merchant/Pods/KLCPopup/README.md
+Vatgia-iOS-For-Merchant/Pods/KLCPopup/KLCPopup/KLCPopup.h
+Vatgia-iOS-For-Merchant/Pods/KLCPopup/KLCPopup/KLCPopup.m
+Vatgia-iOS-For-Merchant/Pods/MBProgressHUD/LICENSE
+Vatgia-iOS-For-Merchant/Pods/MBProgressHUD/MBProgressHUD.h
+Vatgia-iOS-For-Merchant/Pods/MBProgressHUD/MBProgressHUD.m
+Vatgia-iOS-For-Merchant/Pods/MBProgressHUD/README.mdown
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/LICENSE
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/README.md
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/MJRefresh.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/MJRefreshConst.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/MJRefreshConst.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/NSBundle+MJRefresh.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/NSBundle+MJRefresh.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/UIScrollView+MJExtension.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/UIScrollView+MJRefresh.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/UIView+MJExtension.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/UIView+MJExtension.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshAutoFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshBackFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Base/MJRefreshHeader.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshGifHeader.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshNormalHeader.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.h
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/Custom/Header/MJRefreshStateHeader.m
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/arrow@2x.png
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/en.lproj/Localizable.strings
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/zh-Hans.lproj/Localizable.strings
+Vatgia-iOS-For-Merchant/Pods/MJRefresh/MJRefresh/MJRefresh.bundle/zh-Hant.lproj/Localizable.strings
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/LICENSE
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/README.md
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/CustomDateFormatTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/DataTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/DateFormatterTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/DateTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/DictionaryTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/EnumOperators.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/EnumTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/FromJSON.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/HexColorTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/ImmutableMappable.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/ISO8601DateTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/Map.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/MapError.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/Mappable.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/Mapper.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/NSDecimalNumberTransform.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/Operators.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/ToJSON.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/TransformOf.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/TransformOperators.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/TransformType.swift
+Vatgia-iOS-For-Merchant/Pods/ObjectMapper/Sources/URLTransform.swift
+Vatgia-iOS-For-Merchant/Pods/PMAlertController/LICENSE
+Vatgia-iOS-For-Merchant/Pods/PMAlertController/README.md
+Vatgia-iOS-For-Merchant/Pods/PMAlertController/Library/PMAlertAction.swift
+Vatgia-iOS-For-Merchant/Pods/PMAlertController/Library/PMAlertController.swift
+Vatgia-iOS-For-Merchant/Pods/PMAlertController/Library/PMAlertController.xib
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/project.pbxproj
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/ActionSheetPicker-3.0.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/Alamofire.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/AlamofireImage.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/AlamofireObjectMapper.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/BBBadgeBarButtonItem.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/Bolts.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/CocoaLumberjack.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/CSStickyHeaderFlowLayout.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/FBSDKCoreKit.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/FBSDKLoginKit.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/FBSDKShareKit.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/FormatterKit.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/GoogleToolboxForMac.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/GTMOAuth2.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/GTMSessionFetcher.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/HPGrowingTextView.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/KLCPopup.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/MBProgressHUD.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/MJRefresh.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/ObjectMapper.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/PMAlertController-PMAlertController.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/PMAlertController.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/Pods-Vatgia-iOS-For-Merchant.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/SDWebImage.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/TLYShyNavBar.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/TPKeyboardAvoiding.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/TTTAttributedLabel.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/WYPopoverController.xcscheme
+Vatgia-iOS-For-Merchant/Pods/Pods.xcodeproj/xcuserdata/phantuananh.xcuserdatad/xcschemes/xcschememanagement.plist
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/LICENSE
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/README.md
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/NSImage+WebCache.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/NSImage+WebCache.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDImageCache.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDImageCache.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImage+GIF.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIView+WebCache.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIView+WebCache.m
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h
+Vatgia-iOS-For-Merchant/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ActionSheetPicker-3.0/ActionSheetPicker-3.0-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ActionSheetPicker-3.0/ActionSheetPicker-3.0-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ActionSheetPicker-3.0/ActionSheetPicker-3.0-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ActionSheetPicker-3.0/ActionSheetPicker-3.0.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ActionSheetPicker-3.0/ActionSheetPicker-3.0.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ActionSheetPicker-3.0/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Alamofire/Alamofire-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Alamofire/Alamofire.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Alamofire/Alamofire.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Alamofire/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireImage/AlamofireImage-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireImage/AlamofireImage-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireImage/AlamofireImage.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireImage/AlamofireImage.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireImage/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireObjectMapper/AlamofireObjectMapper-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireObjectMapper/AlamofireObjectMapper-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireObjectMapper/AlamofireObjectMapper-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireObjectMapper/AlamofireObjectMapper.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireObjectMapper/AlamofireObjectMapper.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/AlamofireObjectMapper/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/BBBadgeBarButtonItem/BBBadgeBarButtonItem-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/BBBadgeBarButtonItem/BBBadgeBarButtonItem-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/BBBadgeBarButtonItem/BBBadgeBarButtonItem-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/BBBadgeBarButtonItem/BBBadgeBarButtonItem.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/BBBadgeBarButtonItem/BBBadgeBarButtonItem.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/BBBadgeBarButtonItem/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Bolts/Bolts-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Bolts/Bolts-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Bolts/Bolts-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Bolts/Bolts.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Bolts/Bolts.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Bolts/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CocoaLumberjack/CocoaLumberjack.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CocoaLumberjack/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/CSStickyHeaderFlowLayout/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKCoreKit/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKLoginKit/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FBSDKShareKit/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FormatterKit/FormatterKit-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FormatterKit/FormatterKit-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FormatterKit/FormatterKit-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FormatterKit/FormatterKit.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FormatterKit/FormatterKit.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/FormatterKit/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GoogleToolboxForMac/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMOAuth2/GTMOAuth2-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMOAuth2/GTMOAuth2-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMOAuth2/GTMOAuth2-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMOAuth2/GTMOAuth2.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMOAuth2/GTMOAuth2.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMOAuth2/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/GTMSessionFetcher/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/HPGrowingTextView/HPGrowingTextView-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/HPGrowingTextView/HPGrowingTextView-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/HPGrowingTextView/HPGrowingTextView-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/HPGrowingTextView/HPGrowingTextView.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/HPGrowingTextView/HPGrowingTextView.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/HPGrowingTextView/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/KLCPopup/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/KLCPopup/KLCPopup-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/KLCPopup/KLCPopup-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/KLCPopup/KLCPopup-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/KLCPopup/KLCPopup.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/KLCPopup/KLCPopup.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MBProgressHUD/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MJRefresh/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MJRefresh/MJRefresh-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MJRefresh/MJRefresh-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MJRefresh/MJRefresh-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MJRefresh/MJRefresh.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/MJRefresh/MJRefresh.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ObjectMapper/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ObjectMapper/ObjectMapper-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ObjectMapper/ObjectMapper-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ObjectMapper/ObjectMapper.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/ObjectMapper/ObjectMapper.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/PMAlertController/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/PMAlertController/PMAlertController-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/PMAlertController/PMAlertController-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/PMAlertController/PMAlertController-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/PMAlertController/PMAlertController.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/PMAlertController/PMAlertController.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/PMAlertController/ResourceBundle-PMAlertController-Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-acknowledgements.markdown
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-acknowledgements.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-frameworks.sh
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-resources.sh
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant.debug.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant.release.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/SDWebImage/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/SDWebImage/SDWebImage-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/SDWebImage/SDWebImage-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/SDWebImage/SDWebImage.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/SDWebImage/SDWebImage.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TLYShyNavBar/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TLYShyNavBar/TLYShyNavBar-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TLYShyNavBar/TLYShyNavBar-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TLYShyNavBar/TLYShyNavBar-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TLYShyNavBar/TLYShyNavBar.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TLYShyNavBar/TLYShyNavBar.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TPKeyboardAvoiding/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TPKeyboardAvoiding/TPKeyboardAvoiding.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TTTAttributedLabel/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TTTAttributedLabel/TTTAttributedLabel-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TTTAttributedLabel/TTTAttributedLabel-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TTTAttributedLabel/TTTAttributedLabel-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TTTAttributedLabel/TTTAttributedLabel.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/TTTAttributedLabel/TTTAttributedLabel.xcconfig
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/WYPopoverController/Info.plist
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/WYPopoverController/WYPopoverController-dummy.m
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/WYPopoverController/WYPopoverController-prefix.pch
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/WYPopoverController/WYPopoverController-umbrella.h
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/WYPopoverController/WYPopoverController.modulemap
+Vatgia-iOS-For-Merchant/Pods/Target Support Files/WYPopoverController/WYPopoverController.xcconfig
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/LICENSE
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/README.md
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Info.plist
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/TLYShyNavBar.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/TLYShyNavBarFade.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/TLYShyNavBarManager.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/TLYShyNavBarManager.m
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/NSObject+TLYSwizzlingHelpers.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/NSObject+TLYSwizzlingHelpers.m
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/TLYDelegateProxy.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/TLYDelegateProxy.m
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/UIScrollView+Helpers.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/UIScrollView+Helpers.m
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/UIViewController+BetterLayoutGuides.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/Categories/UIViewController+BetterLayoutGuides.m
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyChild.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyParent.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyScrollViewController.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyScrollViewController.m
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyStatusBarController.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyStatusBarController.m
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyViewController.h
+Vatgia-iOS-For-Merchant/Pods/TLYShyNavBar/TLYShyNavBar/ShyControllers/TLYShyViewController.m
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/LICENSE.txt
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/README.md
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/TPKeyboardAvoidingCollectionView.h
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/TPKeyboardAvoidingCollectionView.m
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/TPKeyboardAvoidingScrollView.h
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/TPKeyboardAvoidingScrollView.m
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/TPKeyboardAvoidingTableView.h
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/TPKeyboardAvoidingTableView.m
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/UIScrollView+TPKeyboardAvoidingAdditions.h
+Vatgia-iOS-For-Merchant/Pods/TPKeyboardAvoiding/TPKeyboardAvoiding/UIScrollView+TPKeyboardAvoidingAdditions.m
+Vatgia-iOS-For-Merchant/Pods/TTTAttributedLabel/LICENSE
+Vatgia-iOS-For-Merchant/Pods/TTTAttributedLabel/README.md
+Vatgia-iOS-For-Merchant/Pods/TTTAttributedLabel/TTTAttributedLabel/TTTAttributedLabel.h
+Vatgia-iOS-For-Merchant/Pods/TTTAttributedLabel/TTTAttributedLabel/TTTAttributedLabel.m
+Vatgia-iOS-For-Merchant/Pods/WYPopoverController/LICENSE
+Vatgia-iOS-For-Merchant/Pods/WYPopoverController/README.md
+Vatgia-iOS-For-Merchant/Pods/WYPopoverController/WYPopoverController/WYPopoverController.h
+Vatgia-iOS-For-Merchant/Pods/WYPopoverController/WYPopoverController/WYPopoverController.m
+Vatgia-iOS-For-Merchant/Pods/WYPopoverController/WYPopoverController/WYStoryboardPopoverSegue.h
+Vatgia-iOS-For-Merchant/Pods/WYPopoverController/WYPopoverController/WYStoryboardPopoverSegue.m
