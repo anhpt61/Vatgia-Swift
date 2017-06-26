@@ -1,0 +1,977 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7BEBFA6230470FD0517A8231 /* Pods_Vatgia_iOS_For_Merchant.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA9E5D36785F951413760482 /* Pods_Vatgia_iOS_For_Merchant.framework */; };
+		874BABA01D8BD51A003BD099 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874BAB9F1D8BD51A003BD099 /* AppDelegate.swift */; };
+		874BABA51D8BD51A003BD099 /* Defaults.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 874BABA31D8BD51A003BD099 /* Defaults.storyboard */; };
+		874BABA81D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 874BABA61D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodeld */; };
+		874BABAD1D8BD51A003BD099 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 874BABAB1D8BD51A003BD099 /* LaunchScreen.storyboard */; };
+		A51CB56D1DDC66F900987188 /* ManageProduct.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A51CB56C1DDC66F900987188 /* ManageProduct.storyboard */; };
+		A51CB56F1DDC685900987188 /* Error.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A51CB56E1DDC685900987188 /* Error.storyboard */; };
+		A51CB5731DDC68AF00987188 /* ErrorInternetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51CB5721DDC68AF00987188 /* ErrorInternetViewController.swift */; };
+		A51CB5761DDC6B0400987188 /* Colours.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51CB5751DDC6B0400987188 /* Colours.swift */; };
+		A51E963C1DDFFBBE0052BCF2 /* InlineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A51E963A1DDFFBBE0052BCF2 /* InlineViewController.swift */; };
+		A53089341DE3E75C00B8F928 /* CartManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53089331DE3E75C00B8F928 /* CartManager.swift */; };
+		A535C8961DD3914C0076107D /* StoryboardManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A535C8951DD3914C0076107D /* StoryboardManager.swift */; };
+		A5418FBF1F00AB1200B50CBB /* ContactInfos.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5418FBE1F00AB1200B50CBB /* ContactInfos.swift */; };
+		A5425D391DC852BF00C876A8 /* UserInformationEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5425D381DC852BF00C876A8 /* UserInformationEntity.swift */; };
+		A5425D3B1DC878EE00C876A8 /* BaseObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5425D3A1DC878EE00C876A8 /* BaseObject.swift */; };
+		A54299381E49B447008A3D6D /* InlineProductsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54299371E49B447008A3D6D /* InlineProductsViewController.swift */; };
+		A542993B1E49BE37008A3D6D /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = A542993A1E49BE37008A3D6D /* Product.swift */; };
+		A542993D1E49BF6B008A3D6D /* HybridProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = A542993C1E49BF6B008A3D6D /* HybridProduct.swift */; };
+		A542993F1E49C122008A3D6D /* InlineProductCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A542993E1E49C122008A3D6D /* InlineProductCollectionViewCell.swift */; };
+		A54299421E49C213008A3D6D /* ProductManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54299411E49C213008A3D6D /* ProductManager.swift */; };
+		A54E05231DDDA5D0002E4FAD /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54E05221DDDA5D0002E4FAD /* NetworkManager.swift */; };
+		A54E05261DDDAA72002E4FAD /* ConstantValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54E05251DDDAA72002E4FAD /* ConstantValue.swift */; };
+		A55002761DD5ABE1009346C9 /* UIViewController+InteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = A55002751DD5ABE1009346C9 /* UIViewController+InteractiveTransition.m */; };
+		A55002811DD5AC5C009346C9 /* UIView+Image.m in Sources */ = {isa = PBXBuildFile; fileRef = A55002801DD5AC5C009346C9 /* UIView+Image.m */; };
+		A55D22101DD301F0005B9695 /* UserTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D220F1DD301F0005B9695 /* UserTracker.swift */; };
+		A55D22121DD30258005B9695 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D22111DD30258005B9695 /* Preferences.swift */; };
+		A55D22141DD302AF005B9695 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D22131DD302AF005B9695 /* User.swift */; };
+		A55D22161DD31EC1005B9695 /* IDAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D22151DD31EC1005B9695 /* IDAuth.swift */; };
+		A57010791E0CCAF800D5FF9F /* UIImage+Resizable.m in Sources */ = {isa = PBXBuildFile; fileRef = A57010781E0CCAF800D5FF9F /* UIImage+Resizable.m */; };
+		A570107F1E0CCB0800D5FF9F /* PITDelegateProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = A570107C1E0CCB0800D5FF9F /* PITDelegateProxy.m */; };
+		A57010801E0CCB0800D5FF9F /* PresentInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = A570107E1E0CCB0800D5FF9F /* PresentInteractiveTransition.m */; };
+		A57010821E0CDC1700D5FF9F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A57010811E0CDC1700D5FF9F /* Images.xcassets */; };
+		A570108E1E0CDE7100D5FF9F /* InitialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A570108D1E0CDE7100D5FF9F /* InitialViewController.swift */; };
+		A57010901E0CDE7900D5FF9F /* MainNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A570108F1E0CDE7900D5FF9F /* MainNavigationController.swift */; };
+		A57010941E0CDEC000D5FF9F /* MyTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010931E0CDEC000D5FF9F /* MyTabBarViewController.swift */; };
+		A57010961E0CDECC00D5FF9F /* MyNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010951E0CDECC00D5FF9F /* MyNavigationViewController.swift */; };
+		A57010991E0CDFA400D5FF9F /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010981E0CDFA400D5FF9F /* BaseViewController.swift */; };
+		A570109C1E0CDFD200D5FF9F /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A570109B1E0CDFD200D5FF9F /* ContainerViewController.swift */; };
+		A570109F1E0CDFF400D5FF9F /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A570109E1E0CDFF400D5FF9F /* ContentViewController.swift */; };
+		A57010A21E0CE11600D5FF9F /* ButtonBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010A11E0CE11600D5FF9F /* ButtonBarView.swift */; };
+		A57010A41E0CE17000D5FF9F /* PagerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010A31E0CE17000D5FF9F /* PagerViewController.swift */; };
+		A57010A81E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010A61E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.swift */; };
+		A57010A91E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A57010A71E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.xib */; };
+		A57010AB1E0CE39000D5FF9F /* ButtonBarView.xib in Resources */ = {isa = PBXBuildFile; fileRef = A57010AA1E0CE39000D5FF9F /* ButtonBarView.xib */; };
+		A57010B11E0D2A8F00D5FF9F /* ManageProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010B01E0D2A8F00D5FF9F /* ManageProductViewController.swift */; };
+		A57010B41E0D2AD800D5FF9F /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010B31E0D2AD800D5FF9F /* ProfileViewController.swift */; };
+		A57010B71E0D2ADE00D5FF9F /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010B61E0D2ADE00D5FF9F /* SearchViewController.swift */; };
+		A57010BA1E0D2AE500D5FF9F /* NotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010B91E0D2AE500D5FF9F /* NotificationViewController.swift */; };
+		A57010BD1E0D2AF100D5FF9F /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010BC1E0D2AF100D5FF9F /* HomeViewController.swift */; };
+		A57010C11E0D2EFD00D5FF9F /* UIView+Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = A57010C01E0D2EFD00D5FF9F /* UIView+Cell.m */; };
+		A57010C41E0D2F8F00D5FF9F /* AutoSizeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57010C31E0D2F8F00D5FF9F /* AutoSizeCollectionViewCell.swift */; };
+		A5A741091DDEF9D90038B53D /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5A741081DDEF9D90038B53D /* Home.storyboard */; };
+		A5A7410B1DDEFD390038B53D /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5A7410A1DDEFD390038B53D /* Profile.storyboard */; };
+		A5A7410D1DDEFD690038B53D /* Notifications.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5A7410C1DDEFD690038B53D /* Notifications.storyboard */; };
+		A5A7410F1DDEFD750038B53D /* Search.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5A7410E1DDEFD750038B53D /* Search.storyboard */; };
+		A5E5FE241DD4E0980072A1C3 /* AppReportViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E5FE231DD4E0980072A1C3 /* AppReportViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		344536450DD85584D5926538 /* Pods-Vatgia-iOS-For-Merchant.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vatgia-iOS-For-Merchant.release.xcconfig"; path = "Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant.release.xcconfig"; sourceTree = "<group>"; };
+		8446508F0E2D9758A34AAEEE /* Pods-Vatgia-iOS-For-Merchant.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vatgia-iOS-For-Merchant.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant.debug.xcconfig"; sourceTree = "<group>"; };
+		871AF6561DABCD9700F2FAA9 /* Vatgia-Merchant-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Vatgia-Merchant-Bridging-Header.h"; sourceTree = "<group>"; };
+		874BAB9C1D8BD51A003BD099 /* Vatgia-iOS-For-Merchant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Vatgia-iOS-For-Merchant.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		874BAB9F1D8BD51A003BD099 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		874BABA41D8BD51A003BD099 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Defaults.storyboard; sourceTree = "<group>"; };
+		874BABA71D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Vatgia_iOS_For_Merchant.xcdatamodel; sourceTree = "<group>"; };
+		874BABAC1D8BD51A003BD099 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		874BABAE1D8BD51A003BD099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		874BABB71D8BD51B003BD099 /* Vatgia_iOS_For_MerchantTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vatgia_iOS_For_MerchantTests.swift; sourceTree = "<group>"; };
+		874BABB91D8BD51B003BD099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		874BABC21D8BD51B003BD099 /* Vatgia_iOS_For_MerchantUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vatgia_iOS_For_MerchantUITests.swift; sourceTree = "<group>"; };
+		874BABC41D8BD51B003BD099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A51CB56C1DDC66F900987188 /* ManageProduct.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ManageProduct.storyboard; sourceTree = "<group>"; };
+		A51CB56E1DDC685900987188 /* Error.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Error.storyboard; sourceTree = "<group>"; };
+		A51CB5721DDC68AF00987188 /* ErrorInternetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorInternetViewController.swift; sourceTree = "<group>"; };
+		A51CB5751DDC6B0400987188 /* Colours.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colours.swift; sourceTree = "<group>"; };
+		A51E963A1DDFFBBE0052BCF2 /* InlineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InlineViewController.swift; sourceTree = "<group>"; };
+		A53089331DE3E75C00B8F928 /* CartManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartManager.swift; sourceTree = "<group>"; };
+		A535C8951DD3914C0076107D /* StoryboardManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StoryboardManager.swift; path = "Vatgia-iOS-For-Merchant/Helper/StoryboardManager.swift"; sourceTree = SOURCE_ROOT; };
+		A5418FBE1F00AB1200B50CBB /* ContactInfos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactInfos.swift; sourceTree = "<group>"; };
+		A5425D381DC852BF00C876A8 /* UserInformationEntity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInformationEntity.swift; sourceTree = "<group>"; };
+		A5425D3A1DC878EE00C876A8 /* BaseObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseObject.swift; sourceTree = "<group>"; };
+		A54299371E49B447008A3D6D /* InlineProductsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InlineProductsViewController.swift; sourceTree = "<group>"; };
+		A542993A1E49BE37008A3D6D /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		A542993C1E49BF6B008A3D6D /* HybridProduct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HybridProduct.swift; sourceTree = "<group>"; };
+		A542993E1E49C122008A3D6D /* InlineProductCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InlineProductCollectionViewCell.swift; sourceTree = "<group>"; };
+		A54299411E49C213008A3D6D /* ProductManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductManager.swift; sourceTree = "<group>"; };
+		A54E05221DDDA5D0002E4FAD /* NetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		A54E05251DDDAA72002E4FAD /* ConstantValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstantValue.swift; sourceTree = "<group>"; };
+		A55002741DD5ABE1009346C9 /* UIViewController+InteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+InteractiveTransition.h"; sourceTree = "<group>"; };
+		A55002751DD5ABE1009346C9 /* UIViewController+InteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+InteractiveTransition.m"; sourceTree = "<group>"; };
+		A550027F1DD5AC5C009346C9 /* UIView+Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Image.h"; sourceTree = "<group>"; };
+		A55002801DD5AC5C009346C9 /* UIView+Image.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Image.m"; sourceTree = "<group>"; };
+		A55D220F1DD301F0005B9695 /* UserTracker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserTracker.swift; sourceTree = "<group>"; };
+		A55D22111DD30258005B9695 /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
+		A55D22131DD302AF005B9695 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A55D22151DD31EC1005B9695 /* IDAuth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IDAuth.swift; sourceTree = "<group>"; };
+		A57010771E0CCAF800D5FF9F /* UIImage+Resizable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Resizable.h"; sourceTree = "<group>"; };
+		A57010781E0CCAF800D5FF9F /* UIImage+Resizable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Resizable.m"; sourceTree = "<group>"; };
+		A570107B1E0CCB0800D5FF9F /* PITDelegateProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PITDelegateProxy.h; sourceTree = "<group>"; };
+		A570107C1E0CCB0800D5FF9F /* PITDelegateProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PITDelegateProxy.m; sourceTree = "<group>"; };
+		A570107D1E0CCB0800D5FF9F /* PresentInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresentInteractiveTransition.h; sourceTree = "<group>"; };
+		A570107E1E0CCB0800D5FF9F /* PresentInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresentInteractiveTransition.m; sourceTree = "<group>"; };
+		A57010811E0CDC1700D5FF9F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A570108D1E0CDE7100D5FF9F /* InitialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitialViewController.swift; sourceTree = "<group>"; };
+		A570108F1E0CDE7900D5FF9F /* MainNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainNavigationController.swift; sourceTree = "<group>"; };
+		A57010931E0CDEC000D5FF9F /* MyTabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTabBarViewController.swift; sourceTree = "<group>"; };
+		A57010951E0CDECC00D5FF9F /* MyNavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyNavigationViewController.swift; sourceTree = "<group>"; };
+		A57010981E0CDFA400D5FF9F /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		A570109B1E0CDFD200D5FF9F /* ContainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
+		A570109E1E0CDFF400D5FF9F /* ContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
+		A57010A11E0CE11600D5FF9F /* ButtonBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonBarView.swift; sourceTree = "<group>"; };
+		A57010A31E0CE17000D5FF9F /* PagerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PagerViewController.swift; sourceTree = "<group>"; };
+		A57010A61E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonBarCollectionViewCell.swift; sourceTree = "<group>"; };
+		A57010A71E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ButtonBarCollectionViewCell.xib; sourceTree = "<group>"; };
+		A57010AA1E0CE39000D5FF9F /* ButtonBarView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ButtonBarView.xib; sourceTree = "<group>"; };
+		A57010AD1E0CE6F200D5FF9F /* Enum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Enum.h; sourceTree = "<group>"; };
+		A57010B01E0D2A8F00D5FF9F /* ManageProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManageProductViewController.swift; sourceTree = "<group>"; };
+		A57010B31E0D2AD800D5FF9F /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		A57010B61E0D2ADE00D5FF9F /* SearchViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		A57010B91E0D2AE500D5FF9F /* NotificationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationViewController.swift; sourceTree = "<group>"; };
+		A57010BC1E0D2AF100D5FF9F /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		A57010BF1E0D2EFD00D5FF9F /* UIView+Cell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Cell.h"; sourceTree = "<group>"; };
+		A57010C01E0D2EFD00D5FF9F /* UIView+Cell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Cell.m"; sourceTree = "<group>"; };
+		A57010C31E0D2F8F00D5FF9F /* AutoSizeCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AutoSizeCollectionViewCell.swift; sourceTree = "<group>"; };
+		A577AEFF1DE3391100D224BD /* Vatgia_iOS_For_MerchantUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vatgia_iOS_For_MerchantUITests.swift; sourceTree = "<group>"; };
+		A577AF011DE3391100D224BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5A741081DDEF9D90038B53D /* Home.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
+		A5A7410A1DDEFD390038B53D /* Profile.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
+		A5A7410C1DDEFD690038B53D /* Notifications.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Notifications.storyboard; sourceTree = "<group>"; };
+		A5A7410E1DDEFD750038B53D /* Search.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Search.storyboard; sourceTree = "<group>"; };
+		A5E5FE231DD4E0980072A1C3 /* AppReportViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppReportViewController.swift; sourceTree = "<group>"; };
+		AA9E5D36785F951413760482 /* Pods_Vatgia_iOS_For_Merchant.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Vatgia_iOS_For_Merchant.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		874BAB991D8BD51A003BD099 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7BEBFA6230470FD0517A8231 /* Pods_Vatgia_iOS_For_Merchant.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0C7F83820A9E847CB620F289 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AA9E5D36785F951413760482 /* Pods_Vatgia_iOS_For_Merchant.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		873BBE6E1D94E32A00E98DD5 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				A54299361E49B41A008A3D6D /* Inline */,
+				A57010BB1E0D2AF100D5FF9F /* Home */,
+				A57010B81E0D2AE500D5FF9F /* Notification */,
+				A57010B51E0D2ADE00D5FF9F /* Search */,
+				A57010B21E0D2AD800D5FF9F /* Profile */,
+				A51CB5701DDC688F00987188 /* Error */,
+				A5E5FE221DD4E0060072A1C3 /* Report */,
+				A55CD3FC1DD474FC007EDC5D /* ManageProduct */,
+				A55CD3FB1DD47386007EDC5D /* DefaultsViewController */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		874931401D90D64F00925B62 /* Interface */ = {
+			isa = PBXGroup;
+			children = (
+				874BABA31D8BD51A003BD099 /* Defaults.storyboard */,
+				A51CB56C1DDC66F900987188 /* ManageProduct.storyboard */,
+				A51CB56E1DDC685900987188 /* Error.storyboard */,
+				A5A741081DDEF9D90038B53D /* Home.storyboard */,
+				A5A7410A1DDEFD390038B53D /* Profile.storyboard */,
+				A5A7410C1DDEFD690038B53D /* Notifications.storyboard */,
+				A5A7410E1DDEFD750038B53D /* Search.storyboard */,
+			);
+			path = Interface;
+			sourceTree = "<group>";
+		};
+		874931411D90DBF000925B62 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				871AF6561DABCD9700F2FAA9 /* Vatgia-Merchant-Bridging-Header.h */,
+				A54299401E49C1FB008A3D6D /* ProductManager */,
+				A51CB5741DDC6AFA00987188 /* Lib */,
+				A54E05211DDDA573002E4FAD /* StoryboardManager */,
+				A54E05201DDDA55F002E4FAD /* NetworkManager */,
+				A57010AC1E0CE6F200D5FF9F /* Enum */,
+				A54E05241DDDAA60002E4FAD /* ConstantValue */,
+				A55002721DD5A9BD009346C9 /* Extensions */,
+				A53089321DE3E72900B8F928 /* SharedManager */,
+				A55D22111DD30258005B9695 /* Preferences.swift */,
+				A55D220F1DD301F0005B9695 /* UserTracker.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		874931431D90DC3F00925B62 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A5425D3A1DC878EE00C876A8 /* BaseObject.swift */,
+				A5425D381DC852BF00C876A8 /* UserInformationEntity.swift */,
+				A55D22131DD302AF005B9695 /* User.swift */,
+				A55D22151DD31EC1005B9695 /* IDAuth.swift */,
+				A542993A1E49BE37008A3D6D /* Product.swift */,
+				A542993C1E49BF6B008A3D6D /* HybridProduct.swift */,
+				A5418FBE1F00AB1200B50CBB /* ContactInfos.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		874931441D90DC4D00925B62 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A54299391E49BE0C008A3D6D /* InlineProductCollectionViewCell */,
+				A57010C21E0D2F6500D5FF9F /* AutoSizeCollectionViewCell */,
+				A57010A51E0CE34100D5FF9F /* ButtonBarCollectionViewCell */,
+				A57010A01E0CE0FD00D5FF9F /* ButtonBarView */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		874BAB931D8BD51A003BD099 = {
+			isa = PBXGroup;
+			children = (
+				874BAB9E1D8BD51A003BD099 /* Vatgia-iOS-For-Merchant */,
+				874BABB61D8BD51B003BD099 /* Vatgia-iOS-For-MerchantTests */,
+				874BABC11D8BD51B003BD099 /* Vatgia-iOS-For-MerchantUITests */,
+				A577AEFE1DE3391100D224BD /* Vatgia-iOS-For-MerchantUITests */,
+				874BAB9D1D8BD51A003BD099 /* Products */,
+				A222262DAC5B532A457E6048 /* Pods */,
+				0C7F83820A9E847CB620F289 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		874BAB9D1D8BD51A003BD099 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				874BAB9C1D8BD51A003BD099 /* Vatgia-iOS-For-Merchant.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		874BAB9E1D8BD51A003BD099 /* Vatgia-iOS-For-Merchant */ = {
+			isa = PBXGroup;
+			children = (
+				874931401D90D64F00925B62 /* Interface */,
+				873BBE6E1D94E32A00E98DD5 /* Controller */,
+				874931441D90DC4D00925B62 /* View */,
+				874931431D90DC3F00925B62 /* Model */,
+				874931411D90DBF000925B62 /* Helper */,
+				874BAB9F1D8BD51A003BD099 /* AppDelegate.swift */,
+				A57010811E0CDC1700D5FF9F /* Images.xcassets */,
+				874BABAB1D8BD51A003BD099 /* LaunchScreen.storyboard */,
+				874BABAE1D8BD51A003BD099 /* Info.plist */,
+				874BABA61D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodeld */,
+			);
+			path = "Vatgia-iOS-For-Merchant";
+			sourceTree = "<group>";
+		};
+		874BABB61D8BD51B003BD099 /* Vatgia-iOS-For-MerchantTests */ = {
+			isa = PBXGroup;
+			children = (
+				874BABB71D8BD51B003BD099 /* Vatgia_iOS_For_MerchantTests.swift */,
+				874BABB91D8BD51B003BD099 /* Info.plist */,
+			);
+			path = "Vatgia-iOS-For-MerchantTests";
+			sourceTree = "<group>";
+		};
+		874BABC11D8BD51B003BD099 /* Vatgia-iOS-For-MerchantUITests */ = {
+			isa = PBXGroup;
+			children = (
+				874BABC21D8BD51B003BD099 /* Vatgia_iOS_For_MerchantUITests.swift */,
+				874BABC41D8BD51B003BD099 /* Info.plist */,
+			);
+			path = "Vatgia-iOS-For-MerchantUITests";
+			sourceTree = "<group>";
+		};
+		A222262DAC5B532A457E6048 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8446508F0E2D9758A34AAEEE /* Pods-Vatgia-iOS-For-Merchant.debug.xcconfig */,
+				344536450DD85584D5926538 /* Pods-Vatgia-iOS-For-Merchant.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A51CB5701DDC688F00987188 /* Error */ = {
+			isa = PBXGroup;
+			children = (
+				A51CB5711DDC68A400987188 /* ErrorInternetViewController */,
+			);
+			path = Error;
+			sourceTree = "<group>";
+		};
+		A51CB5711DDC68A400987188 /* ErrorInternetViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A51CB5721DDC68AF00987188 /* ErrorInternetViewController.swift */,
+			);
+			path = ErrorInternetViewController;
+			sourceTree = "<group>";
+		};
+		A51CB5741DDC6AFA00987188 /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				A51CB5751DDC6B0400987188 /* Colours.swift */,
+			);
+			path = Lib;
+			sourceTree = "<group>";
+		};
+		A51E96391DDFF1D20052BCF2 /* LayoutViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A51E963A1DDFFBBE0052BCF2 /* InlineViewController.swift */,
+			);
+			path = LayoutViewController;
+			sourceTree = "<group>";
+		};
+		A53089321DE3E72900B8F928 /* SharedManager */ = {
+			isa = PBXGroup;
+			children = (
+				A53089331DE3E75C00B8F928 /* CartManager.swift */,
+			);
+			path = SharedManager;
+			sourceTree = "<group>";
+		};
+		A54299361E49B41A008A3D6D /* Inline */ = {
+			isa = PBXGroup;
+			children = (
+				A54299371E49B447008A3D6D /* InlineProductsViewController.swift */,
+			);
+			path = Inline;
+			sourceTree = "<group>";
+		};
+		A54299391E49BE0C008A3D6D /* InlineProductCollectionViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				A542993E1E49C122008A3D6D /* InlineProductCollectionViewCell.swift */,
+			);
+			path = InlineProductCollectionViewCell;
+			sourceTree = "<group>";
+		};
+		A54299401E49C1FB008A3D6D /* ProductManager */ = {
+			isa = PBXGroup;
+			children = (
+				A54299411E49C213008A3D6D /* ProductManager.swift */,
+			);
+			path = ProductManager;
+			sourceTree = "<group>";
+		};
+		A54E05201DDDA55F002E4FAD /* NetworkManager */ = {
+			isa = PBXGroup;
+			children = (
+				A54E05221DDDA5D0002E4FAD /* NetworkManager.swift */,
+			);
+			path = NetworkManager;
+			sourceTree = "<group>";
+		};
+		A54E05211DDDA573002E4FAD /* StoryboardManager */ = {
+			isa = PBXGroup;
+			children = (
+				A535C8951DD3914C0076107D /* StoryboardManager.swift */,
+			);
+			path = StoryboardManager;
+			sourceTree = "<group>";
+		};
+		A54E05241DDDAA60002E4FAD /* ConstantValue */ = {
+			isa = PBXGroup;
+			children = (
+				A54E05251DDDAA72002E4FAD /* ConstantValue.swift */,
+			);
+			path = ConstantValue;
+			sourceTree = "<group>";
+		};
+		A55002721DD5A9BD009346C9 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				A57010BE1E0D2EFD00D5FF9F /* UIView+Cell */,
+				A570107A1E0CCB0800D5FF9F /* PresentInteractiveTransition */,
+				A57010761E0CCAF800D5FF9F /* UIImage+Resizable */,
+				A550027E1DD5AC5C009346C9 /* UIView+Image */,
+				A55002731DD5ABE1009346C9 /* UIViewController+InteractiveTransition */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		A55002731DD5ABE1009346C9 /* UIViewController+InteractiveTransition */ = {
+			isa = PBXGroup;
+			children = (
+				A55002741DD5ABE1009346C9 /* UIViewController+InteractiveTransition.h */,
+				A55002751DD5ABE1009346C9 /* UIViewController+InteractiveTransition.m */,
+			);
+			path = "UIViewController+InteractiveTransition";
+			sourceTree = "<group>";
+		};
+		A550027E1DD5AC5C009346C9 /* UIView+Image */ = {
+			isa = PBXGroup;
+			children = (
+				A550027F1DD5AC5C009346C9 /* UIView+Image.h */,
+				A55002801DD5AC5C009346C9 /* UIView+Image.m */,
+			);
+			path = "UIView+Image";
+			sourceTree = "<group>";
+		};
+		A55CD3FB1DD47386007EDC5D /* DefaultsViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A570109D1E0CDFEB00D5FF9F /* ContentViewController */,
+				A570109A1E0CDFC200D5FF9F /* ContainerViewController */,
+				A57010971E0CDF5E00D5FF9F /* BaseViewController */,
+				A570108C1E0CDE5200D5FF9F /* MyTabBarViewController */,
+				A570108B1E0CDE4300D5FF9F /* MainNavigationController */,
+				A570108A1E0CDE3700D5FF9F /* MyNavigationViewController */,
+				A57010891E0CDDE500D5FF9F /* InitialViewController */,
+				A57010861E0CDDA800D5FF9F /* PagerViewController */,
+				A51E96391DDFF1D20052BCF2 /* LayoutViewController */,
+			);
+			path = DefaultsViewController;
+			sourceTree = "<group>";
+		};
+		A55CD3FC1DD474FC007EDC5D /* ManageProduct */ = {
+			isa = PBXGroup;
+			children = (
+				A57010B01E0D2A8F00D5FF9F /* ManageProductViewController.swift */,
+			);
+			path = ManageProduct;
+			sourceTree = "<group>";
+		};
+		A57010761E0CCAF800D5FF9F /* UIImage+Resizable */ = {
+			isa = PBXGroup;
+			children = (
+				A57010771E0CCAF800D5FF9F /* UIImage+Resizable.h */,
+				A57010781E0CCAF800D5FF9F /* UIImage+Resizable.m */,
+			);
+			path = "UIImage+Resizable";
+			sourceTree = "<group>";
+		};
+		A570107A1E0CCB0800D5FF9F /* PresentInteractiveTransition */ = {
+			isa = PBXGroup;
+			children = (
+				A570107B1E0CCB0800D5FF9F /* PITDelegateProxy.h */,
+				A570107C1E0CCB0800D5FF9F /* PITDelegateProxy.m */,
+				A570107D1E0CCB0800D5FF9F /* PresentInteractiveTransition.h */,
+				A570107E1E0CCB0800D5FF9F /* PresentInteractiveTransition.m */,
+			);
+			path = PresentInteractiveTransition;
+			sourceTree = "<group>";
+		};
+		A57010861E0CDDA800D5FF9F /* PagerViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A57010A31E0CE17000D5FF9F /* PagerViewController.swift */,
+			);
+			path = PagerViewController;
+			sourceTree = "<group>";
+		};
+		A57010891E0CDDE500D5FF9F /* InitialViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A570108D1E0CDE7100D5FF9F /* InitialViewController.swift */,
+			);
+			path = InitialViewController;
+			sourceTree = "<group>";
+		};
+		A570108A1E0CDE3700D5FF9F /* MyNavigationViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A57010951E0CDECC00D5FF9F /* MyNavigationViewController.swift */,
+			);
+			path = MyNavigationViewController;
+			sourceTree = "<group>";
+		};
+		A570108B1E0CDE4300D5FF9F /* MainNavigationController */ = {
+			isa = PBXGroup;
+			children = (
+				A570108F1E0CDE7900D5FF9F /* MainNavigationController.swift */,
+			);
+			path = MainNavigationController;
+			sourceTree = "<group>";
+		};
+		A570108C1E0CDE5200D5FF9F /* MyTabBarViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A57010931E0CDEC000D5FF9F /* MyTabBarViewController.swift */,
+			);
+			path = MyTabBarViewController;
+			sourceTree = "<group>";
+		};
+		A57010971E0CDF5E00D5FF9F /* BaseViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A57010981E0CDFA400D5FF9F /* BaseViewController.swift */,
+			);
+			path = BaseViewController;
+			sourceTree = "<group>";
+		};
+		A570109A1E0CDFC200D5FF9F /* ContainerViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A570109B1E0CDFD200D5FF9F /* ContainerViewController.swift */,
+			);
+			path = ContainerViewController;
+			sourceTree = "<group>";
+		};
+		A570109D1E0CDFEB00D5FF9F /* ContentViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A570109E1E0CDFF400D5FF9F /* ContentViewController.swift */,
+			);
+			path = ContentViewController;
+			sourceTree = "<group>";
+		};
+		A57010A01E0CE0FD00D5FF9F /* ButtonBarView */ = {
+			isa = PBXGroup;
+			children = (
+				A57010A11E0CE11600D5FF9F /* ButtonBarView.swift */,
+				A57010AA1E0CE39000D5FF9F /* ButtonBarView.xib */,
+			);
+			path = ButtonBarView;
+			sourceTree = "<group>";
+		};
+		A57010A51E0CE34100D5FF9F /* ButtonBarCollectionViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				A57010A61E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.swift */,
+				A57010A71E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.xib */,
+			);
+			path = ButtonBarCollectionViewCell;
+			sourceTree = "<group>";
+		};
+		A57010AC1E0CE6F200D5FF9F /* Enum */ = {
+			isa = PBXGroup;
+			children = (
+				A57010AD1E0CE6F200D5FF9F /* Enum.h */,
+			);
+			path = Enum;
+			sourceTree = "<group>";
+		};
+		A57010B21E0D2AD800D5FF9F /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				A57010B31E0D2AD800D5FF9F /* ProfileViewController.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		A57010B51E0D2ADE00D5FF9F /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				A57010B61E0D2ADE00D5FF9F /* SearchViewController.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		A57010B81E0D2AE500D5FF9F /* Notification */ = {
+			isa = PBXGroup;
+			children = (
+				A57010B91E0D2AE500D5FF9F /* NotificationViewController.swift */,
+			);
+			path = Notification;
+			sourceTree = "<group>";
+		};
+		A57010BB1E0D2AF100D5FF9F /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				A57010BC1E0D2AF100D5FF9F /* HomeViewController.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		A57010BE1E0D2EFD00D5FF9F /* UIView+Cell */ = {
+			isa = PBXGroup;
+			children = (
+				A57010BF1E0D2EFD00D5FF9F /* UIView+Cell.h */,
+				A57010C01E0D2EFD00D5FF9F /* UIView+Cell.m */,
+			);
+			path = "UIView+Cell";
+			sourceTree = "<group>";
+		};
+		A57010C21E0D2F6500D5FF9F /* AutoSizeCollectionViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				A57010C31E0D2F8F00D5FF9F /* AutoSizeCollectionViewCell.swift */,
+			);
+			path = AutoSizeCollectionViewCell;
+			sourceTree = "<group>";
+		};
+		A577AEFE1DE3391100D224BD /* Vatgia-iOS-For-MerchantUITests */ = {
+			isa = PBXGroup;
+			children = (
+				A577AEFF1DE3391100D224BD /* Vatgia_iOS_For_MerchantUITests.swift */,
+				A577AF011DE3391100D224BD /* Info.plist */,
+			);
+			path = "Vatgia-iOS-For-MerchantUITests";
+			sourceTree = "<group>";
+		};
+		A5E5FE221DD4E0060072A1C3 /* Report */ = {
+			isa = PBXGroup;
+			children = (
+				A5E5FE231DD4E0980072A1C3 /* AppReportViewController.swift */,
+			);
+			path = Report;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		874BAB9B1D8BD51A003BD099 /* Vatgia-iOS-For-Merchant */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 874BABC71D8BD51B003BD099 /* Build configuration list for PBXNativeTarget "Vatgia-iOS-For-Merchant" */;
+			buildPhases = (
+				82E44BB129C3549C755D16CD /* [CP] Check Pods Manifest.lock */,
+				874BAB981D8BD51A003BD099 /* Sources */,
+				874BAB991D8BD51A003BD099 /* Frameworks */,
+				874BAB9A1D8BD51A003BD099 /* Resources */,
+				0CE82B4B94B20BFE751E1710 /* [CP] Embed Pods Frameworks */,
+				F969D1210E7CB52442F715B7 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Vatgia-iOS-For-Merchant";
+			productName = "Vatgia-iOS-For-Merchant";
+			productReference = 874BAB9C1D8BD51A003BD099 /* Vatgia-iOS-For-Merchant.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		874BAB941D8BD51A003BD099 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0810;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Tuan Anh Phan";
+				TargetAttributes = {
+					874BAB9B1D8BD51A003BD099 = {
+						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 25RV3FT2EJ;
+						LastSwiftMigration = 0810;
+					};
+				};
+			};
+			buildConfigurationList = 874BAB971D8BD51A003BD099 /* Build configuration list for PBXProject "Vatgia-iOS-For-Merchant" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 874BAB931D8BD51A003BD099;
+			productRefGroup = 874BAB9D1D8BD51A003BD099 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				874BAB9B1D8BD51A003BD099 /* Vatgia-iOS-For-Merchant */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		874BAB9A1D8BD51A003BD099 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A57010A91E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.xib in Resources */,
+				874BABAD1D8BD51A003BD099 /* LaunchScreen.storyboard in Resources */,
+				A57010821E0CDC1700D5FF9F /* Images.xcassets in Resources */,
+				A5A7410D1DDEFD690038B53D /* Notifications.storyboard in Resources */,
+				A51CB56D1DDC66F900987188 /* ManageProduct.storyboard in Resources */,
+				A5A741091DDEF9D90038B53D /* Home.storyboard in Resources */,
+				A5A7410B1DDEFD390038B53D /* Profile.storyboard in Resources */,
+				A57010AB1E0CE39000D5FF9F /* ButtonBarView.xib in Resources */,
+				A5A7410F1DDEFD750038B53D /* Search.storyboard in Resources */,
+				A51CB56F1DDC685900987188 /* Error.storyboard in Resources */,
+				874BABA51D8BD51A003BD099 /* Defaults.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0CE82B4B94B20BFE751E1710 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		82E44BB129C3549C755D16CD /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F969D1210E7CB52442F715B7 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Vatgia-iOS-For-Merchant/Pods-Vatgia-iOS-For-Merchant-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		874BAB981D8BD51A003BD099 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5425D391DC852BF00C876A8 /* UserInformationEntity.swift in Sources */,
+				A55002761DD5ABE1009346C9 /* UIViewController+InteractiveTransition.m in Sources */,
+				A570109C1E0CDFD200D5FF9F /* ContainerViewController.swift in Sources */,
+				A57010791E0CCAF800D5FF9F /* UIImage+Resizable.m in Sources */,
+				A570109F1E0CDFF400D5FF9F /* ContentViewController.swift in Sources */,
+				A570108E1E0CDE7100D5FF9F /* InitialViewController.swift in Sources */,
+				A57010B41E0D2AD800D5FF9F /* ProfileViewController.swift in Sources */,
+				A57010991E0CDFA400D5FF9F /* BaseViewController.swift in Sources */,
+				A5425D3B1DC878EE00C876A8 /* BaseObject.swift in Sources */,
+				A54299381E49B447008A3D6D /* InlineProductsViewController.swift in Sources */,
+				A542993D1E49BF6B008A3D6D /* HybridProduct.swift in Sources */,
+				A54299421E49C213008A3D6D /* ProductManager.swift in Sources */,
+				874BABA01D8BD51A003BD099 /* AppDelegate.swift in Sources */,
+				A57010BA1E0D2AE500D5FF9F /* NotificationViewController.swift in Sources */,
+				A51CB5761DDC6B0400987188 /* Colours.swift in Sources */,
+				A55D22141DD302AF005B9695 /* User.swift in Sources */,
+				A5418FBF1F00AB1200B50CBB /* ContactInfos.swift in Sources */,
+				A57010A41E0CE17000D5FF9F /* PagerViewController.swift in Sources */,
+				A57010A21E0CE11600D5FF9F /* ButtonBarView.swift in Sources */,
+				A57010801E0CCB0800D5FF9F /* PresentInteractiveTransition.m in Sources */,
+				A542993B1E49BE37008A3D6D /* Product.swift in Sources */,
+				A55002811DD5AC5C009346C9 /* UIView+Image.m in Sources */,
+				A57010941E0CDEC000D5FF9F /* MyTabBarViewController.swift in Sources */,
+				A57010B11E0D2A8F00D5FF9F /* ManageProductViewController.swift in Sources */,
+				A55D22161DD31EC1005B9695 /* IDAuth.swift in Sources */,
+				A5E5FE241DD4E0980072A1C3 /* AppReportViewController.swift in Sources */,
+				A57010B71E0D2ADE00D5FF9F /* SearchViewController.swift in Sources */,
+				A51CB5731DDC68AF00987188 /* ErrorInternetViewController.swift in Sources */,
+				A57010BD1E0D2AF100D5FF9F /* HomeViewController.swift in Sources */,
+				A57010901E0CDE7900D5FF9F /* MainNavigationController.swift in Sources */,
+				A570107F1E0CCB0800D5FF9F /* PITDelegateProxy.m in Sources */,
+				A542993F1E49C122008A3D6D /* InlineProductCollectionViewCell.swift in Sources */,
+				A51E963C1DDFFBBE0052BCF2 /* InlineViewController.swift in Sources */,
+				A54E05261DDDAA72002E4FAD /* ConstantValue.swift in Sources */,
+				A535C8961DD3914C0076107D /* StoryboardManager.swift in Sources */,
+				A53089341DE3E75C00B8F928 /* CartManager.swift in Sources */,
+				A57010A81E0CE37A00D5FF9F /* ButtonBarCollectionViewCell.swift in Sources */,
+				874BABA81D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodeld in Sources */,
+				A57010C41E0D2F8F00D5FF9F /* AutoSizeCollectionViewCell.swift in Sources */,
+				A57010961E0CDECC00D5FF9F /* MyNavigationViewController.swift in Sources */,
+				A55D22101DD301F0005B9695 /* UserTracker.swift in Sources */,
+				A54E05231DDDA5D0002E4FAD /* NetworkManager.swift in Sources */,
+				A55D22121DD30258005B9695 /* Preferences.swift in Sources */,
+				A57010C11E0D2EFD00D5FF9F /* UIView+Cell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		874BABA31D8BD51A003BD099 /* Defaults.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				874BABA41D8BD51A003BD099 /* Base */,
+			);
+			name = Defaults.storyboard;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		874BABAB1D8BD51A003BD099 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				874BABAC1D8BD51A003BD099 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		874BABC51D8BD51B003BD099 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/anhpt/Desktop/Vatgia-iOS-For-Merchant/Vatgia-iOS-For-Merchant/Helper/Vatgia-Merchant-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		874BABC61D8BD51B003BD099 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/anhpt/Desktop/Vatgia-iOS-For-Merchant/Vatgia-iOS-For-Merchant/Helper/Vatgia-Merchant-Bridging-Header.h";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		874BABC81D8BD51B003BD099 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8446508F0E2D9758A34AAEEE /* Pods-Vatgia-iOS-For-Merchant.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 25RV3FT2EJ;
+				INFOPLIST_FILE = "Vatgia-iOS-For-Merchant/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vnp.vg2016.Vatgia-iOS-For-Merchant";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/anhpt/Desktop/project/Vatgia-iOS-For-Merchant/Vatgia-iOS-For-Merchant/Helper/Vatgia-Merchant-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		874BABC91D8BD51B003BD099 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 344536450DD85584D5926538 /* Pods-Vatgia-iOS-For-Merchant.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 25RV3FT2EJ;
+				INFOPLIST_FILE = "Vatgia-iOS-For-Merchant/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vnp.vg2016.Vatgia-iOS-For-Merchant";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/anhpt/Desktop/project/Vatgia-iOS-For-Merchant/Vatgia-iOS-For-Merchant/Helper/Vatgia-Merchant-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		874BAB971D8BD51A003BD099 /* Build configuration list for PBXProject "Vatgia-iOS-For-Merchant" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				874BABC51D8BD51B003BD099 /* Debug */,
+				874BABC61D8BD51B003BD099 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		874BABC71D8BD51B003BD099 /* Build configuration list for PBXNativeTarget "Vatgia-iOS-For-Merchant" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				874BABC81D8BD51B003BD099 /* Debug */,
+				874BABC91D8BD51B003BD099 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		874BABA61D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				874BABA71D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodel */,
+			);
+			currentVersion = 874BABA71D8BD51A003BD099 /* Vatgia_iOS_For_Merchant.xcdatamodel */;
+			path = Vatgia_iOS_For_Merchant.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 874BAB941D8BD51A003BD099 /* Project object */;
+}
